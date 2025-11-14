@@ -2,7 +2,7 @@
 This repo tracks my 6-month roadmap to develop Python skills in options trading.
 
 ## Projects
-1. Python fundamentals for quant finance
+1. Python fundamentals for data science
 2. Market data ingestion & storage
 3. Black-Scholes & Greeks
 4. Implied Volatility solver & surface plotting
